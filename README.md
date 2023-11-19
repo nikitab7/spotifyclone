@@ -32,9 +32,7 @@ To get started with Spotlight, follow these steps:<br>
 <br>
 
 ## Tech Stack</b>
-React Native: Cross-platform mobile app development framework.<br>
-Node.js: Server-side JavaScript runtime.<br>
-Spotify API: Access and integrate Spotify functionalities seamlessly.<br>
+React Native, Node.js, Spotify API<br>
 
 ## Usage</b>
 Open the app and log in with your Spotify credentials.<br>
