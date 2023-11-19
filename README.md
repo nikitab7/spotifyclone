@@ -8,7 +8,7 @@ Spotlight has four pages:<br />
 3 - Detailed Song screen <br />
 4 - Song preview screen <br />
 
-<img width="200" alt="Screen Shot 2023-11-19 at 1 37 53 PM" src="https://github.com/nikitab7/spotifyclone/assets/106767139/a0f49930-6e1b-4f40-ad96-b33db40d98e0">   
+<img width="170" alt="Screen Shot 2023-11-19 at 1 37 53 PM" src="https://github.com/nikitab7/spotifyclone/assets/106767139/a0f49930-6e1b-4f40-ad96-b33db40d98e0">   
 
 <img width="200" alt="Screen Shot 2023-11-19 at 1 38 01 PM" src="https://github.com/nikitab7/spotifyclone/assets/106767139/8d4b1dd4-35e4-4308-a9dd-6727707d218f">    
 
