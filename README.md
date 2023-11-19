@@ -2,7 +2,7 @@
 
 Mobile app that accesses the Spotify API to get a users top listened-to tracks, and provides previews of each song.
 
-Spotlight has four pages:
+Spotlight has four pages:<br />
 1 - Spotify Auth (part of main screen) <br />
 2 - List of Songs (part of main screen) <br />
 3 - Detailed Song screen <br />
