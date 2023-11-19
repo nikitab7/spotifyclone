@@ -1,12 +1,12 @@
 # Spotlight
 
-Mobile app that accesses the Spotify API to get a users top listened-to tracks, and provides previews of each song.
+Mobile app that accesses the Spotify API to get a user's top listened-to tracks, and provides previews of each song.
 
 Spotlight has four pages:<br />
-1 - Spotify Auth (part of main screen) <br />
-2 - List of Songs (part of main screen) <br />
-3 - Detailed Song screen <br />
-4 - Song preview screen <br />
+1 - Spotify Authentication <br />
+2 - List of Songs <br />
+3 - Detailed Song screen (once a song in the main list is clicked on) <br />
+4 - Song preview screen (play icon on the left of a song is clicked) <br />
 
 <img width="180" alt="Screen Shot 2023-11-19 at 1 37 53 PM" src="https://github.com/nikitab7/spotifyclone/assets/106767139/a0f49930-6e1b-4f40-ad96-b33db40d98e0">   
 
