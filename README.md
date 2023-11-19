@@ -26,6 +26,8 @@ To get started with Spotlight, follow these steps:</b>
 </b>
 **Install dependencies**: npm install
 </b>
+**Install expo**
+</b>
 **Run the app**: npx expo start
 </b>
 
