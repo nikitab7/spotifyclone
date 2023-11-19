@@ -22,9 +22,9 @@ Spotlight is a mobile app designed to enhance your music discovery experience by
 ## Installation</b>
 To get started with Spotlight, follow these steps:</b>
 
-Clone the repository: git clone https://github.com/your-username/Spotlight.git </b>
-Install dependencies: npm install</b>
-Run the app: npm start</b>
+**Clone the repository**: git clone https://github.com/your-username/Spotlight.git </b>
+**Install dependencies**: npm install</b>
+**Run the app**: npm start</b>
 
 ## Tech Stack</b>
 React Native: Cross-platform mobile app development framework.</b>
