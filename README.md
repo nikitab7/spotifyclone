@@ -10,7 +10,7 @@ Spotlight is a mobile app designed to enhance your music discovery experience by
 
 **Song Preview Screen**: Click on the play icon next to a song to enjoy a quick preview, helping you decide which track to explore further.</b>
 
-## Screenshots</b>
+## Screenshots
 <img width="180" alt="Screen Shot 2023-11-19 at 1 37 53 PM" src="https://github.com/nikitab7/spotifyclone/assets/106767139/a0f49930-6e1b-4f40-ad96-b33db40d98e0">   
 
 <img width="200" alt="Screen Shot 2023-11-19 at 1 38 01 PM" src="https://github.com/nikitab7/spotifyclone/assets/106767139/8d4b1dd4-35e4-4308-a9dd-6727707d218f">    
@@ -20,26 +20,26 @@ Spotlight is a mobile app designed to enhance your music discovery experience by
 <img width="200" alt="Screen Shot 2023-11-19 at 1 38 17 PM" src="https://github.com/nikitab7/spotifyclone/assets/106767139/bccc4b9c-2e57-41b4-8e49-d8c3f453e1d4">
 
 ## Installation</b>
-To get started with Spotlight, follow these steps:</b>
+To get started with Spotlight, follow these steps:<\b>
 
 **Clone the repository**: git clone https://github.com/your-username/Spotlight.git 
-</b>
+<\b>
 **Install dependencies**: npm install
-</b>
+<\b>
 **Install expo**
-</b>
+<\b>
 **Run the app**: npx expo start
-</b>
+<\b>
 
 ## Tech Stack</b>
-React Native: Cross-platform mobile app development framework.</b>
-Node.js: Server-side JavaScript runtime.</b>
-Spotify API: Access and integrate Spotify functionalities seamlessly.</b>
+React Native: Cross-platform mobile app development framework.<\b>
+Node.js: Server-side JavaScript runtime.<\b>
+Spotify API: Access and integrate Spotify functionalities seamlessly.<\b>
 
 ## Usage</b>
-Open the app and log in with your Spotify credentials.</b>
-Explore your top listened-to tracks on the "List of Songs" page.</b>
-Click on a song to view detailed information on the "Detailed Song Screen."</b>
-Tap the play icon to enjoy a quick preview on the "Song Preview Screen."</b>
+Open the app and log in with your Spotify credentials.<\b>
+Explore your top listened-to tracks on the "List of Songs" page.<\b>
+Click on a song to view detailed information on the "Detailed Song Screen."<\b>
+Tap the play icon to enjoy a quick preview on the "Song Preview Screen."<\b>
 
 
